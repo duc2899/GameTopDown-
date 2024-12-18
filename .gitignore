@@ -1,0 +1,10 @@
+# Bỏ qua các thư mục hệ thống hoặc thư mục tạm
+.vs/
+Temp/
+Logs/
+Library/
+
+# Bỏ qua các tệp IDE và hệ thống
+*.log
+*.lock
+*.vsconfig
